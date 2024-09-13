@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a061f7b-5cea-4fe0-bb15-96d06d4462be" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/java/com/vvquiz/AnswerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/answer/src/test/java/com/vvquiz/AnswerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apigateway/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apigateway/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apigateway/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apigateway/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apigateway/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apigateway/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apigateway/src/main/java/com/vvapigateway/ApigatewayApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apigateway/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apigateway/src/test/java/com/vvapigateway/ApigatewayApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discoveryserver/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discoveryserver/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discoveryserver/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discoveryserver/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discoveryserver/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discoveryserver/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discoveryserver/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discoveryserver/src/main/java/com/vvdiscoveryserver/DiscoveryserverApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discoveryserver/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/discoveryserver/src/test/java/com/vvdiscoveryserver/DiscoveryserverApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/question/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/question/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/question/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/question/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/question/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/question/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/question/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/question/src/main/java/com/vvquiz/QuestionApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/question/src/main/java/com/vvquiz/controller/QuestionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/question/src/main/java/com/vvquiz/entities/Question.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/question/src/main/resources/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/question/src/test/java/com/vvquiz/QuestionApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/src/main/java/com/vvquiz/QuizApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/src/main/java/com/vvquiz/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/src/main/java/com/vvquiz/controller/QuizController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/src/main/java/com/vvquiz/dto/reponse/GenericResponseBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/src/main/java/com/vvquiz/dto/reponse/PageBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/src/main/java/com/vvquiz/dto/request/CreateQuizRequestDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/src/main/java/com/vvquiz/entities/Question.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/src/main/java/com/vvquiz/entities/Quiz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/src/main/java/com/vvquiz/exception/GlobalException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/src/main/java/com/vvquiz/exception/QuizAppException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/src/main/java/com/vvquiz/repository/QuizRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/src/main/java/com/vvquiz/repository/customrepository/CustomQuizRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/src/main/java/com/vvquiz/repository/customrepository/CustomQuizRepositoryImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/src/main/java/com/vvquiz/service/QuizService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/src/main/java/com/vvquiz/service/impl/QuizServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/src/main/java/com/vvquiz/utils/ErrorMessageAndCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/src/main/java/com/vvquiz/utils/QuizType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quiz/src/test/java/com/vvquiz/QuizApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizappconsumer/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizappconsumer/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizappconsumer/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizappconsumer/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizappconsumer/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizappconsumer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizappconsumer/src/main/java/com/vvquiz/quizappconsumer/QuizappconsumerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizappconsumer/src/main/java/com/vvquiz/quizappconsumer/service/EmailNotificationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizappconsumer/src/main/java/com/vvquiz/quizappconsumer/service/EmailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizappconsumer/src/main/java/com/vvquiz/quizappconsumer/service/impl/EmailServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizappconsumer/src/main/java/com/vvquiz/quizappconsumer/utils/EmailDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizappconsumer/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quizappconsumer/src/test/java/com/vvquiz/quizappconsumer/QuizappconsumerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/score/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/score/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/score/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/score/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/score/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/score/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/score/src/main/java/com/vvscore/ScoreApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/score/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/score/src/test/java/com/vvscore/ScoreApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/subject/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/subject/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/subject/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/subject/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/subject/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/subject/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/subject/src/main/java/com/vvsubject/SubjectApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/subject/src/main/java/com/vvsubject/config/AppConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/subject/src/main/java/com/vvsubject/controller/SubjectController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/subject/src/main/java/com/vvsubject/dto/request/CreateSubjectRequestDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/subject/src/main/java/com/vvsubject/dto/response/GenericResponseBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/subject/src/main/java/com/vvsubject/dto/response/PageBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/subject/src/main/java/com/vvsubject/entities/Subject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/subject/src/main/java/com/vvsubject/exception/GlobalException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/subject/src/main/java/com/vvsubject/exception/SubjectAppException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/subject/src/main/java/com/vvsubject/repository/SubjectRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/subject/src/main/java/com/vvsubject/service/SubjectService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/subject/src/main/java/com/vvsubject/service/impl/SubjectServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/subject/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/subject/src/test/java/com/vvsubject/SubjectApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/src/main/java/com/vvuser/UserApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/src/test/java/com/vvuser/UserApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2h3fpj2UOC0RUizKDirw9aBpQMK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ConfigserverApplication.executor": "Run",
+    "Application.DiscoveryserverApplication.executor": "Run",
+    "Application.SubjectApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/QuizAppMicroServices/services/configserver/pom.xml"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.SubjectApplication">
+    <configuration name="ConfigserverApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vvconfig.configserver.ConfigserverApplication" />
+      <module name="configserver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vvconfig.configserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryserverApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vvdiscoveryserver.DiscoveryserverApplication" />
+      <module name="discoveryserver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vvdiscoveryserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubjectApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vvsubject.SubjectApplication" />
+      <module name="subject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vvsubject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SubjectApplication" />
+        <item itemvalue="Application.DiscoveryserverApplication" />
+        <item itemvalue="Application.ConfigserverApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a061f7b-5cea-4fe0-bb15-96d06d4462be" name="Changes" comment="" />
+      <created>1716827867081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716827867081</updated>
+    </task>
+    <servers />
+  </component>
+</project>

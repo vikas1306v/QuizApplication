@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="apigateway" />
+        <module name="quiz" />
+        <module name="core" />
+        <module name="score" />
+        <module name="answer" />
+        <module name="question" />
+        <module name="subject" />
+        <module name="discoveryserver" />
+        <module name="configserver" />
+        <module name="quizappconsumer" />
+        <module name="user" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="answer" options="-parameters" />
+      <module name="apigateway" options="-parameters" />
+      <module name="configserver" options="-parameters" />
+      <module name="discoveryserver" options="-parameters" />
+      <module name="question" options="-parameters" />
+      <module name="quiz" options="-parameters" />
+      <module name="quizappconsumer" options="-parameters" />
+      <module name="score" options="-parameters" />
+      <module name="subject" options="-parameters" />
+      <module name="user" options="-parameters" />
+    </option>
+  </component>
+</project>

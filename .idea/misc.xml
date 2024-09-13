@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager" version="2" project-jdk-name="openjdk-22 (2)" project-jdk-type="JavaSDK">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/services/answer/pom.xml" />
+        <option value="$PROJECT_DIR$/services/apigateway/pom.xml" />
+        <option value="$PROJECT_DIR$/services/core/pom.xml" />
+        <option value="$PROJECT_DIR$/services/discoveryserver/pom.xml" />
+        <option value="$PROJECT_DIR$/services/question/pom.xml" />
+        <option value="$PROJECT_DIR$/services/quiz/pom.xml" />
+        <option value="$PROJECT_DIR$/services/quizappconsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/services/score/pom.xml" />
+        <option value="$PROJECT_DIR$/services/subject/pom.xml" />
+        <option value="$PROJECT_DIR$/services/user/pom.xml" />
+        <option value="$PROJECT_DIR$/services/configserver/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" default="true" project-jdk-name="openjdk-22" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
